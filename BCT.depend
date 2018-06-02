@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1527043123 source:/media/ooomooo/myUbuntuDisk/finalAssignment/BCT/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1526939232 /media/ooomooo/myUbuntuDisk/finalAssignment/BCT/queue.h
+	<stdlib.h>
+	<stdio.h>
+
